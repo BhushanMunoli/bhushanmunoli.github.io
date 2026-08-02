@@ -1,8 +1,9 @@
 // --- Typing Animation Logic ---
 var typed = new Typed('#typing-text', {
     strings: [
-        'SEEKING INTERNSHIP SUMMER 2026',
         'SEEKING INTERNSHIP FALL 2026',
+        'SEEKING INTERNSHIP SPRING 2027'
+        'SEEKING INTERNSHIP SUMMER 2027',
     ],
     typeSpeed: 40,
     backSpeed: 40,
